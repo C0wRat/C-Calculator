@@ -22,3 +22,7 @@ Run `config.bat` to get a list of build commands.
 1. SCons
 2. C compiler
 3. Python
+
+
+## Photos
+![Calculator Image](/src/img/calculator.PNG)
